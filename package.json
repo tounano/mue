@@ -1,0 +1,28 @@
+{
+  "name": "mue",
+  "version": "0.0.1",
+  "dependencies": {
+    "selectors": "latest",
+    "xtend": "latest",
+    "duplexify": "latest",
+    "through2": "latest"
+  },
+  "main": "./selectors.js",
+  "description": "Microservices Unframework...",
+  "homepage": "https://github.com/tounano/mue/",
+  "author": "ClickHere <js@clickhere.co.il>",
+  "keywords": [
+    "mue",
+    "microservice",
+    "microservices",
+    "streams"
+  ],
+  "licenses": {
+    "type": "The MIT License",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tounano/mue"
+  }
+}
