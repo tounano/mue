@@ -7,7 +7,7 @@
     "duplexify": "latest",
     "through2": "latest"
   },
-  "main": "./selectors.js",
+  "main": "./index.js",
   "description": "Microservices Unframework...",
   "homepage": "https://github.com/tounano/mue/",
   "author": "ClickHere <js@clickhere.co.il>",
